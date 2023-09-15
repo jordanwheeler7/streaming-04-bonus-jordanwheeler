@@ -5,7 +5,7 @@
 - Module 4 Bonus Assignment
 - 14 September 2023
 - [GitHub Repo](https://github.com/jordanwheeler7/streaming-04-bonus-jordanwheeler)
-- [Repository Page]()
+- [Repository Page](https://jordanwheeler7.github.io/streaming-04-bonus-jordanwheeler/)
 
 ## Overview
 
