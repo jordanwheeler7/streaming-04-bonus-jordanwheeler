@@ -38,4 +38,4 @@ This project is a bonus assignment that serves to provide more practice with str
 8. You can then view the csv files that were created in the project folder.
 
 ## What it looks like
-![4_Terminal](./4_Terminal.png)
+![4_Terminal](4 Terminal.png)
