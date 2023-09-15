@@ -4,7 +4,7 @@
 - CSIS 44671: Streaming Data
 - Module 4 Bonus Assignment
 - 14 September 2023
-- [GitHub Repo]()
+- [GitHub Repo](https://github.com/jordanwheeler7/streaming-04-bonus-jordanwheeler)
 - [Repository Page]()
 
 ## Overview
@@ -38,4 +38,4 @@ This project is a bonus assignment that serves to provide more practice with str
 8. You can then view the csv files that were created in the project folder.
 
 ## What it looks like
-![Screenshot](4 Terminal.png)
+![4_Terminal](4 Terminal.png)
