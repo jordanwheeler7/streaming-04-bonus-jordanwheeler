@@ -9,10 +9,10 @@
 
 ## Overview
 
-This project is a bonus assignment that serves to provide more practice with streaming data. To do this, we created 1 producer and 3 consumers. The message that the producer sends is from the data_weather.csv file. It then sends a different message to each of the 3 workers who write to their respective csv file. In the data_location file, we take the output and convert the location to all upper case letters. We do teh same for the data_type except this file tells us what weather event took place and the severity. The final csv file is data_precipitation which takes the precipitation amount in inches and converts it to centimeters, rounded to 2 places.
+This project is a bonus assignment that serves to provide more practice with streaming data. To do this, we created 1 producer and 3 consumers. The message that the producer sends is from the data_weather.csv file. It then sends a different message to each of the 3 workers who write to their respective CSV files. In the data_location file, we take the output and convert the location to all upper-case letters. We do the same for the data_type except this file tells us what weather event took place and the severity. The final CSV file is data_precipitation which takes the precipitation amount in inches and converts it to centimeters, rounded to 2 places.
 
 ## Dataset
-[Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events) is where we found this dataset. We did a lot of cleanning to provide only the 5 rows that we wanted to explore in this project.
+[Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events) is where we found this dataset. We did a lot of cleaning to provide only the 5 rows that we wanted to explore in this project.
 
 ## Requirements
 1. Git
@@ -35,7 +35,7 @@ This project is a bonus assignment that serves to provide more practice with str
 5. In the third window, type `python message_consumer_location.py` to run the second worker
 6. In the fourth window, type `python message_consumer_precipitation.py` to run the third worker
 7. This will allow the process to continue to run until you stop it with `ctrl + c` in the producer window. You will also need to stop the workers in the other windows as well utilizing the same command.
-8. You can then view the csv files that were created in the project folder.
+8. You can then view the CSV files that were created in the project folder.
 
 ## What it looks like
 ![terminal](terminal.png)
